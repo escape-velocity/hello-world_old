@@ -1,2 +1,2 @@
 # hello-world
-a freecodecamp lesson
+a boring little lesson but useful none the less for learning Git
